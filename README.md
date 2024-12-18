@@ -6,7 +6,7 @@ This code simulates RF (radio frequency) coverage over a given terrain using a d
 **Imports and Setup:**
 Libraries like rasterio, numpy, matplotlib, os, numba, and pyproj are imported for handling geospatial data, numerical computations, plotting, and performance optimization.
 
-Knife-Edge Diffraction Loss Calculation:
+**Knife-Edge Diffraction Loss Calculation:**
 The knife_edge_diffraction_loss function calculates the diffraction loss based on the distance, height of the obstacle, and wavelength.
 
 **Antenna Gain Pattern:**
