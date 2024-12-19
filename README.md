@@ -30,6 +30,11 @@ Geospatial Handling: rasterio and pyproj are used for reading DEM data and trans
 Visualization: matplotlib is used to plot the simulated RF coverage map.
 
 
+![image](https://github.com/user-attachments/assets/55c57699-87ce-48fe-9cd7-ebfa36298aa9)
+![image](https://github.com/user-attachments/assets/8c77d85e-7616-48de-b296-46fc92c98d60)
+
+
+
 **To improve this project and make it more realistic, consider the following improvements:**
 
 Multipath Propagation:
