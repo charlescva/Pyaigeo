@@ -93,29 +93,29 @@ https://www.tutorialspoint.com/antenna_theory/antenna_theory_beam_width.htm
 Dependencies:
 
 ```
-rasterio-1.4.3 (25.4 MB) - BSD License1
-matplotlib-3.10.0 (8.0 MB) - BSD License2
-argparse-1.4.0 (23 kB) - Python License3
-numba-0.60.0 (2.7 MB) - BSD License4
-numpy-2.0.2 (15.6 MB) - BSD License5
-pyproj-3.7.0 (6.2 MB) - MIT License6
-click-8.1.7 (97 kB) - BSD License7
-cligj-0.7.2 (7.1 kB) - BSD-3-Clause License8
-contourpy-1.3.1 (220 kB) - BSD-3-Clause License9
-cycler-0.12.1 (8.3 kB) - BSD License10
-fonttools-4.55.3 (2.2 MB) - UNKNOWN
-kiwisolver-1.4.7 (55 kB) - UNKNOWN
-llvmlite-0.43.0 (28.1 MB) - UNKNOWN
-packaging-24.2 (65 kB) - UNKNOWN
-pillow-11.0.0 (2.6 MB) - UNKNOWN
-pyparsing-3.2.0 (106 kB) - UNKNOWN
-python_dateutil-2.9.0.post0 (229 kB) - UNKNOWN
-affine-2.4.0 (15 kB) - UNKNOWN
-attrs-24.3.0 (63 kB) - UNKNOWN
-certifi-2024.12.14 (164 kB) - UNKNOWN
-click_plugins-1.1.1 (7.5 kB) - UNKNOWN
-six-1.17.0 (11 kB) - UNKNOWN
-colorama-0.4.6 (25 kB) - UNKNOWN
+rasterio-1.4.3 (25.4 MB)
+matplotlib-3.10.0 (8.0 MB)
+argparse-1.4.0 (23 kB)
+numba-0.60.0 (2.7 MB)
+numpy-2.0.2 (15.6 MB)
+pyproj-3.7.0 (6.2 MB)
+click-8.1.7 (97 kB)
+cligj-0.7.2 (7.1 kB)
+contourpy-1.3.1 (220 kB)
+cycler-0.12.1 (8.3 kB)
+fonttools-4.55.3 (2.2 MB)
+kiwisolver-1.4.7 (55 kB)
+llvmlite-0.43.0 (28.1 MB)
+packaging-24.2 (65 kB)
+pillow-11.0.0 (2.6 MB)
+pyparsing-3.2.0 (106 kB)
+python_dateutil-2.9.0.post0 (229 kB)
+affine-2.4.0 (15 kB)
+attrs-24.3.0 (63 kB)
+certifi-2024.12.14 (164 kB)
+click_plugins-1.1.1 (7.5 kB)
+six-1.17.0 (11 kB)
+colorama-0.4.6 (25 kB)
 ```
 
 
