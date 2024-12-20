@@ -1,16 +1,24 @@
 # Pyaigeo
 AI, Python and Geospatial
 
-Windows 10/11
+Windows 10/11 CMD/Powershell:
 ```
 git clone https://github.com/charlescva/Pyaigeo.git
 python -m venv Pyaigeo
 cd Pyaigeo
 Scripts\activate.bat
-
+python propagate.py
 ```
 
-This code simulates RF (radio frequency) coverage over a given terrain using a digital elevation model (DEM).
+This code simulates RF (radio frequency) coverage over a randomly generated terrain using a digital elevation model (DEM):
+![simulated_rf_coverage_map](https://github.com/user-attachments/assets/557affcf-1d33-474b-9eb8-165b5422fcf5)
+
+If you want to use a custom input elevation map, you can pass a TIF file as an argument to the `propagate.py` script:
+```
+python propagate.py Terrain_DEM.tif
+```
+
+
 
 **Imports and Setup:**
 Libraries like rasterio, numpy, matplotlib, os, numba, and pyproj are imported for handling geospatial data, numerical computations, plotting, and performance optimization.
@@ -34,8 +42,11 @@ The latlon_to_rowcol function converts latitude and longitude to row and column 
 The main function reads the DEM data, sets up the transmitter parameters, and calls the simulate_rf_coverage function. It then plots and saves the RF coverage map.
 
 **Key Points:**
-Performance Optimization: The use of numba for JIT compilation and parallel processing speeds up the diffraction loss calculations.
+
+**Performance Optimization:** The use of numba for JIT compilation and parallel processing speeds up the diffraction loss calculations.
+
 Geospatial Handling: rasterio and pyproj are used for reading DEM data and transforming coordinates.
+
 Visualization: matplotlib is used to plot the simulated RF coverage map.
 
 
