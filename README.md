@@ -1,6 +1,15 @@
 # Pyaigeo
 AI, Python and Geospatial
 
+Windows 10/11
+```
+git clone https://github.com/charlescva/Pyaigeo.git
+python -m venv Pyaigeo
+cd Pyaigeo
+Scripts\activate.bat
+
+```
+
 This code simulates RF (radio frequency) coverage over a given terrain using a digital elevation model (DEM).
 
 **Imports and Setup:**
