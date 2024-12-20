@@ -34,6 +34,7 @@ Visualization: matplotlib is used to plot the simulated RF coverage map.
 ![image](https://github.com/user-attachments/assets/8c77d85e-7616-48de-b296-46fc92c98d60)
 
 ![image](https://github.com/user-attachments/assets/1a80b6a1-3a22-4181-b8d9-44863d1720b7)
+![image](https://github.com/user-attachments/assets/23c85fb5-66da-40e9-a23e-322f57402a36)
 
 
 **To improve this project and make it more realistic, consider the following improvements:**
