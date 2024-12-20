@@ -77,8 +77,6 @@ Frequency Selective Fading: Model how different frequencies experience different
 
 ![image](https://github.com/user-attachments/assets/462b4eb3-d3df-4479-8099-0515526cd864)
 
-![image](https://github.com/user-attachments/assets/ee04bfee-5bd2-4858-bb4b-edfe05c85628)
-
-![image](https://github.com/user-attachments/assets/c6e7f635-d641-4206-b94f-ebf407d4c85c)
+https://www.tutorialspoint.com/antenna_theory/antenna_theory_beam_width.htm
 
 
