@@ -1,5 +1,5 @@
 # Pyaigeo
-AI, Python and Geospatial
+LLM (AI) Generated Python with Geospatial Application: RF Propogation Simulation
 
 Windows 10/11 CMD/Powershell:
 ```
